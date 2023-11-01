@@ -14,7 +14,7 @@ function Card(){
                     </div>
                 </div>
                 <div class="col-4">
-                    <div class="card text-white bg-warning mb-3"  >
+                    <div class="card text-white bg-secondary mb-3"  >
                         <div class="card-header">Card 02</div>
                         <div class="card-body">
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -22,7 +22,7 @@ function Card(){
                     </div>
                 </div>
                 <div class="col-4">
-                    <div class="card text-white bg-success mb-3"  >
+                    <div class="card text-white bg-warning mb-3"  >
                         <div class="card-header">Card 03</div>
                         <div class="card-body">
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
