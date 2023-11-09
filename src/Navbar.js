@@ -8,10 +8,10 @@ function Navbar() {
             <a class="navbar-brand" href="#">Navbar</a>
             <ul class="navbar-nav me-auto mt-2 mt-lg-0">
                 <li class="nav-item active">
-                    <a class="nav-link" href="/home">Home</a>
+                    <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="/about">About</a>
+                    <a class="nav-link" href="/card">Card</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="/contact">Contact</a>
